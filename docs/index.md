@@ -53,7 +53,7 @@ Start here → [Level 1 · Entry](level-1/index.md)
 
 A computer with a modern browser and a free Google account (for Search Console, Analytics, Ads and Looker Studio). For the advertising modules, real campaigns are optional — you can follow every step and stop before publishing, or run a small test budget (₹500–₹5,000). A simple website (WordPress, Wix, Shopify or a free blog) makes the SEO exercises more realistic but isn't required.
 
-🎥 **Prefer video?** Watch the [Mastery Path video series](https://youtube.com/@learnmasterypath) on YouTube — Shorts and full walkthroughs of these lessons.
+🎥 **Prefer video?** Watch the [Mastery Path video series](https://youtube.com/@learnmasterypath) on YouTube — Shorts and full walkthroughs of these lessons. [▶ Subscribe free](https://www.youtube.com/@learnmasterypath?sub_confirmation=1)
 
 ## More from the Mastery Path series
 
