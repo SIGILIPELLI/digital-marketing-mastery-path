@@ -1,0 +1,109 @@
+site_name: Digital Marketing & SEO Mastery Path
+site_description: A structured, module-wise digital marketing and SEO training program from entry level to master level, covering SEO, Google Ads, Meta Ads, email, content, analytics and growth strategy.
+site_url: https://learnmasterypath.com/digital-marketing-mastery-path/
+repo_url: https://github.com/SIGILIPELLI/digital-marketing-mastery-path
+repo_name: digital-marketing-mastery-path
+
+theme:
+  name: material
+  favicon: assets/favicon.svg
+  custom_dir: docs/overrides
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
+    - content.code.copy
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/progress-tracker.css
+
+extra_javascript:
+  - javascripts/progress-tracker.js
+
+nav:
+  - Home: index.md
+  - Privacy Policy: privacy.md
+  - License: license.md
+  - "Level 1 · Entry":
+      - Overview: level-1/index.md
+      - "01 · Digital Marketing Fundamentals & the Funnel": level-1/01-digital-marketing-fundamentals-and-the-funnel.md
+      - "02 · Audiences, Personas & Customer Journeys": level-1/02-audiences-personas-and-customer-journeys.md
+      - "03 · Websites & Landing Pages That Convert": level-1/03-websites-and-landing-pages-that-convert.md
+      - "04 · How Search Engines Work (SEO Basics)": level-1/04-how-search-engines-work-seo-basics.md
+      - "05 · Keyword Research": level-1/05-keyword-research.md
+      - "06 · On-Page SEO": level-1/06-on-page-seo.md
+      - "07 · Social Media Marketing Basics": level-1/07-social-media-marketing-basics.md
+      - "08 · Email Marketing Basics": level-1/08-email-marketing-basics.md
+      - "09 · Google Analytics 4 Basics": level-1/09-google-analytics-4-basics.md
+      - "10 · Project — Launch Plan for a Local Business": level-1/10-project-launch-plan-for-a-local-business.md
+  - "Level 2 · Intermediate":
+      - Overview: level-2/index.md
+      - "01 · Technical SEO": level-2/01-technical-seo.md
+      - "02 · Local SEO & Google Business Profile": level-2/02-local-seo-and-google-business-profile.md
+      - "03 · Content Marketing Strategy": level-2/03-content-marketing-strategy.md
+      - "04 · Google Ads: Search Campaigns": level-2/04-google-ads-search-campaigns.md
+      - "05 · Meta Ads (Facebook & Instagram)": level-2/05-meta-ads-facebook-and-instagram.md
+      - "06 · YouTube & Video Marketing": level-2/06-youtube-and-video-marketing.md
+      - "07 · Email Automation & Segmentation": level-2/07-email-automation-and-segmentation.md
+      - "08 · Conversion Tracking: GA4 Events & UTMs": level-2/08-conversion-tracking-ga4-events-and-utms.md
+      - "09 · Conversion Rate Optimization Basics": level-2/09-conversion-rate-optimization-basics.md
+      - "10 · Project — A Small-Budget Lead Generation Campaign": level-2/10-project-a-small-budget-lead-generation-campaign.md
+  - "Level 3 · Advanced":
+      - Overview: level-3/index.md
+      - "01 · Link Building & Digital PR": level-3/01-link-building-and-digital-pr.md
+      - "02 · Topic Clusters & Content at Scale": level-3/02-topic-clusters-and-content-at-scale.md
+      - "03 · Performance Max, Shopping & Remarketing": level-3/03-performance-max-shopping-and-remarketing.md
+      - "04 · Marketing Dashboards with Looker Studio": level-3/04-marketing-dashboards-with-looker-studio.md
+      - "05 · A/B Testing & Experimentation": level-3/05-a-b-testing-and-experimentation.md
+      - "06 · Marketing Automation & CRM": level-3/06-marketing-automation-and-crm.md
+      - "07 · Influencer & Affiliate Marketing": level-3/07-influencer-and-affiliate-marketing.md
+      - "08 · E-commerce Marketing": level-3/08-e-commerce-marketing.md
+      - "09 · AI Tools for Marketers": level-3/09-ai-tools-for-marketers.md
+      - "10 · Project — Full-Funnel Growth Plan for an Online Store": level-3/10-project-full-funnel-growth-plan-for-an-online-store.md
+  - "Level 4 · Master":
+      - Overview: level-4/index.md
+      - "01 · Marketing Strategy & Budgeting": level-4/01-marketing-strategy-and-budgeting.md
+      - "02 · Attribution & Marketing Mix Modelling": level-4/02-attribution-and-marketing-mix-modelling.md
+      - "03 · SEO at Scale & International SEO": level-4/03-seo-at-scale-and-international-seo.md
+      - "04 · Brand Positioning & Messaging": level-4/04-brand-positioning-and-messaging.md
+      - "05 · Growth Marketing Systems": level-4/05-growth-marketing-systems.md
+      - "06 · Privacy, Consent & First-Party Data": level-4/06-privacy-consent-and-first-party-data.md
+      - "07 · Leading a Marketing Team or Agency": level-4/07-leading-a-marketing-team-or-agency.md
+      - "08 · Freelancing & Client Management": level-4/08-freelancing-and-client-management.md
+      - "09 · Career Paths & Certifications": level-4/09-career-paths-and-certifications.md
+      - "10 · Capstone — Annual Digital Marketing Plan": level-4/10-capstone-annual-digital-marketing-plan.md
