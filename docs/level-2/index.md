@@ -1,3 +1,7 @@
+---
+description: "Level 2 (Intermediate) of the free Digital Marketing & SEO Mastery Path. Run each major channel properly — search ads, social ads, content, local SEO and…"
+---
+
 # Level 2 · Intermediate <span class="level-badge">Core Channels</span>
 
 Goal: run each major channel properly — search ads, social ads, content, local SEO and email automation — and measure every result.

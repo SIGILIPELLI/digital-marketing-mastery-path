@@ -1,3 +1,7 @@
+---
+description: "Level 3 (Advanced) of the free Digital Marketing & SEO Mastery Path. Scale what works — authority building, advanced campaigns, dashboards, experiments and…"
+---
+
 # Level 3 · Advanced <span class="level-badge">Scale & Measure</span>
 
 Goal: scale what works — authority building, advanced campaigns, dashboards, experiments and automation — and plan growth for an online store.

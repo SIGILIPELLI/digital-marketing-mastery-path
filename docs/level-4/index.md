@@ -1,3 +1,7 @@
+---
+description: "Level 4 (Master) of the free Digital Marketing & SEO Mastery Path. Think like a head of marketing — set strategy, allocate budget, measure true impact…"
+---
+
 # Level 4 · Master <span class="level-badge">Strategy & Career</span>
 
 Goal: think like a head of marketing — set strategy, allocate budget, measure true impact, protect data, lead people — and build your career.

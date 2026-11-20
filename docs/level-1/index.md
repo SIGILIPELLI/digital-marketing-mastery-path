@@ -1,3 +1,7 @@
+---
+description: "Level 1 (Entry) of the free Digital Marketing & SEO Mastery Path. Understand how digital marketing works end to end, learn the core channels, and finish…"
+---
+
 # Level 1 · Entry <span class="level-badge">Foundations</span>
 
 Goal: understand how digital marketing works end to end, learn the core channels, and finish with a marketing launch plan for a real local business.
